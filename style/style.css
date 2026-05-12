@@ -528,6 +528,10 @@ blockquote::before
 	float: left;
 	width: 100%;
 }
+.prodctcon ul li
+{
+	color: #d3d3d3;
+}
 .prodctcon ul
 {
 	padding-left: 22px;
