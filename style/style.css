@@ -551,6 +551,8 @@ blockquote::before
 {
 	color: #fff !Important;
 	font-size: 22px !Important;
+	font-weight: bold;
+	padding-top: 10px;
 }
 .footer-bottom
 {
