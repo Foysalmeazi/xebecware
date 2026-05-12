@@ -549,5 +549,5 @@ blockquote::before
 }
 .logo-text .footer-bottom
 {
-	color: #fff;
+	color: #fff !important;
 }
