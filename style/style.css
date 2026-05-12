@@ -547,3 +547,7 @@ blockquote::before
     margin-bottom: -11px;
     margin-left: 0;
 }
+.logo-text .footer-bottom
+{
+	color: #fff;
+}
