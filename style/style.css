@@ -549,7 +549,8 @@ blockquote::before
 }
 #footer-logo
 {
-	color: #fff !important;
+	color: #fff !Important;
+	font-size: 22px !Important;
 }
 .footer-bottom
 {
